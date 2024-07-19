@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#h1{
+    background-color: aqua;
+    color: black;
+    border: 20px inset rgb(146, 36, 36);
+    text-align: center;
+}
+
+img{
+   width: 300px;
+   height: 300px;
+   border: 20px groove rgb(146, 36, 36);
+   margin: 30px;
+   padding: 50px;
+}
+
+#R1{
+    width: 500px;
+    box-sizing: content-box;
+}
+
+#R2{
+    width: 500px;
+    box-sizing: border-box;
+}
